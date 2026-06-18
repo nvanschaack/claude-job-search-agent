@@ -35,16 +35,15 @@ Never skip any step. Always do all three in one response.
 - Handles change requests, manages risk, and drives handoffs to support teams
 
 ### IT Operational Data Analyst — SKG Texas (January 2025–July 2025)
-- Led company-wide implementation and onboarding of an AI Notetaker tool across all departments — full lifecycle ownership including training and change management
-- Optimized Smartsheet and HubSpot workflows: manually triggered automations, set up real-time notifications, validated end-to-end processes
-- Eliminated manual work for all internal teams, reduced administrative workload, accelerated project delivery
-- Maintained documentation, audit trails, and version control
+- Led full-lifecycle implementation of an AI-powered tool across all departments, including model evaluation, integration, and change management — first AI deployment in company history
+- Optimized Smartsheet and HubSpot workflows to eliminate manual processes for sales, PM, and installation teams; identified bottlenecks, reduced administrative workload, accelerated project delivery
 
 ### Contract Software Developer (June 2024–January 2025)
-- Built FinHub: a desktop app (Electron + React) pulling real-time financial data via RESTful APIs for an active JP Morgan professional
-- Led a 4-person team to build and launch Happy Tails, a full-stack pet adoption app (Node.js/Express API)
+- Built a personal AI job search agent using Claude Desktop that automates job lead screening, cover letter generation, and resume tailoring suggestions — developed via CLI and managed with GitHub
+- Built FinHub: a real-time desktop application (Electron + React) with low-latency API integration and continuous live data processing, optimized for performance under sustained operation
+- Led a 4-person engineering team to architect and deploy Happy Tails, a full-stack application integrating Node.js/Express API with frontend and database layers — delivered from design to production
 - Built Quizzy: MERN stack app with GraphQL/Apollo and JWT authentication, deployed to production
-- Can talk to engineers about integrations, data flows, deployments, and API architecture without losing sight of business needs
+- Active focus on machine learning and computer vision
 
 ### Registered Nurse (July 2021–August 2024)
 - Spicewood Surgery Center: directed pre-, peri-, and post-operative care for 30+ patients/procedures daily; monthly documentation audits reduced errors by 15%; optimized scheduling increased on-time procedures by 10%

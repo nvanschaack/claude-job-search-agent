@@ -43,7 +43,6 @@ Never skip any step. Always do all three in one response.
 - Built FinHub: a real-time desktop application (Electron + React) with low-latency API integration and continuous live data processing, optimized for performance under sustained operation
 - Led a 4-person engineering team to architect and deploy Happy Tails, a full-stack application integrating Node.js/Express API with frontend and database layers — delivered from design to production
 - Built Quizzy: MERN stack app with GraphQL/Apollo and JWT authentication, deployed to production
-- Active focus on machine learning and computer vision
 
 ### Registered Nurse (July 2021–August 2024)
 - Spicewood Surgery Center: directed pre-, peri-, and post-operative care for 30+ patients/procedures daily; monthly documentation audits reduced errors by 15%; optimized scheduling increased on-time procedures by 10%

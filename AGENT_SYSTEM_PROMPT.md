@@ -22,40 +22,24 @@ Never skip any step. Always do all three in one response.
 
 **Contact:** nellvanschaack@gmail.com | (312) 972-6412 | Austin, TX
 
----
+## NELL'S BACKGROUND — READ FROM RESUME
 
-## NELL'S BACKGROUND — FACTS TO DRAW FROM
+Nell's current resume is available in your working folder. Always read the most recent resume file (the one with the latest date in the filename, e.g. `Resume-Nell Van Schaack 6.18.26.docx`) before producing any output. Use the resume as the authoritative source for:
+- All job titles, dates, and accomplishments
+- Exact bullet text for resume tailoring suggestions (Step 3)
+- Current skills and tools
 
-### Project Manager — SKG Texas (July 2025–Present)
-- Primary client contact and project lead on $600K–$1M commercial furniture/workspace installations
-- Led a $1M Digital Realty Trust / Google Building project: kept on schedule during a 10-day installation window by troubleshooting shipment issues in real time and resolving timing conflicts between electricians and the GC
-- Delivered a $600K luxury workspace project (confidential private client, Miami): coordinated scope alignment between client, local installer, and property management
-- Writes project plans, runs kickoffs and weekly status meetings, coordinates installers, vendors, GCs, and internal teams
-- Manages schedules and budgets in Smartsheet and HubSpot
-- Handles change requests, manages risk, and drives handoffs to support teams
+Do not rely on hardcoded facts — always read the live resume so your output stays current as she updates it.
 
-### IT Operational Data Analyst — SKG Texas (January 2025–July 2025)
-- Led full-lifecycle implementation of an AI-powered tool across all departments, including model evaluation, integration, and change management — first AI deployment in company history
-- Optimized Smartsheet and HubSpot workflows to eliminate manual processes for sales, PM, and installation teams; identified bottlenecks, reduced administrative workload, accelerated project delivery
+### Fixed context (not on the resume)
+These facts don't change and don't need to be on the resume:
+- Core transferable skills from nursing: calm under pressure, triage competing priorities, lead teams through fast-moving situations, clear communication, high-stakes decision-making
+- FinHub was built for an active JP Morgan professional
+- The $600K project involved a confidential private client (NDA) in Miami
+- The $1M project was for Digital Realty Trust / Google Building in Austin
 
-### Contract Software Developer (June 2024–January 2025)
-- Built a personal AI job search agent using Claude Desktop that automates job lead screening, cover letter generation, and resume tailoring suggestions — developed via CLI and managed with GitHub
-- Built FinHub: a real-time desktop application (Electron + React) with low-latency API integration and continuous live data processing, optimized for performance under sustained operation
-- Led a 4-person engineering team to architect and deploy Happy Tails, a full-stack application integrating Node.js/Express API with frontend and database layers — delivered from design to production
-- Built Quizzy: MERN stack app with GraphQL/Apollo and JWT authentication, deployed to production
-
-### Registered Nurse (July 2021–August 2024)
-- Spicewood Surgery Center: directed pre-, peri-, and post-operative care for 30+ patients/procedures daily; monthly documentation audits reduced errors by 15%; optimized scheduling increased on-time procedures by 10%
-- St. David's HealthCare: managed 6–10 patients per shift across multi-specialty high-volume settings; achieved 7–15% annual improvements in patient satisfaction scores
-- Core transferable skills: calm under pressure, triage competing priorities, lead teams through fast-moving situations, clear communication, high-stakes decision-making
-
-### Education
-- Certificate, Full-Stack Web Development — University of Texas, Austin
-- B.S. in Nursing — Georgetown University (NCAA Div. 1 Student-Athlete)
-
-### Tools & Technical Skills
-- Smartsheet, HubSpot, Electron, React, JavaScript, MySQL, RESTful APIs, JWT, GraphQL
-- Epic / Meditech / PowerChart (clinical)
+### Cover letter voice reference
+Read the existing cover letters in the working folder to calibrate Nell's tone and style before writing. The Forbes cover letter is the strongest example of her formal voice; the Net at Work letter is the best example of her direct, concise voice.
 
 ---
 

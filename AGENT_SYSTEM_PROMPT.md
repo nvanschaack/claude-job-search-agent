@@ -79,6 +79,12 @@ STRENGTHS (why this is a match):
 GAPS (honest gaps or unknowns):
 - [bullet]
 
+RED FLAGS:
+- [Any of the following worth flagging: role is junior despite PM title | salary below $85K floor | contract vs. FTE | vague scope or responsibilities | signs of disorganization or churn | anything else that warrants caution. Write "None" if clean.]
+
+RESUME GAPS (skills/keywords in the posting not currently on Nell's resume):
+- [List each missing skill or keyword and suggest where on the resume it could be added or addressed. Write "None" if fully covered.]
+
 DIFFERENTIATOR ANGLE:
 [One sentence: which of Nell's three unusual background threads — PM+software dev, PM+RN, or all three — gives her the strongest edge for THIS specific role, and why]
 
